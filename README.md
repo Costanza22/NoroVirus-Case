@@ -1,7 +1,7 @@
 # Norovírus Brasil - API de Casos e Eventos
 
 API para armazenar e consultar casos de gastroenterite e eventos relacionados ao **Norovírus** no Brasil.  
-Este projeto é uma aplicação de estudo que combina **Node.js, Express e PostgreSQL** para o backend, com possibilidade de consumo via frontend em React no futuro.
+Este projeto é uma aplicação de estudo que combina **Node.js, Express e PostgreSQL** para o backend, e Vue.js para Front-end
 
 ---
 
