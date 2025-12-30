@@ -60,5 +60,5 @@ O vírus tem maior incidência **no verão**, principalmente em regiões turíst
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/norovirus-brasil.git
+git clone https://github.com/Costanza22/NoroVirus-Case
 cd norovirus-brasil/backend
