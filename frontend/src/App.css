@@ -1,0 +1,80 @@
+/* ===== APP ===== */
+.app {
+  min-height: 100vh;
+  background-color: #f6f7f9;
+  color: #1f2933;
+  transition: background 0.3s, color 0.3s;
+}
+
+.app.dark {
+  background-color: #121212;
+  color: #e5e7eb;
+}
+
+/* ===== CONTAINER ===== */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 32px;
+}
+
+/* ===== HEADER ===== */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 32px;
+}
+
+.header h1 {
+  font-size: 2rem;
+  margin: 0;
+}
+
+/* ===== CONTROLS ===== */
+.controls {
+  display: flex;
+  gap: 12px;
+}
+
+select,
+button {
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: none;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.app.dark select,
+.app.dark button {
+  background: #1f2937;
+  color: #fff;
+}
+
+/* ===== GRID ===== */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 24px;
+}
+
+/* ===== CARD ===== */
+.card {
+  background: white;
+  border-radius: 14px;
+  padding: 20px;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.08);
+  transition: background 0.3s;
+}
+
+.app.dark .card {
+  background: #1e1e1e;
+}
+
+/* ===== ANNOTATION ===== */
+.annotation {
+  font-size: 0.85rem;
+  opacity: 0.8;
+  margin-bottom: 10px;
+}
