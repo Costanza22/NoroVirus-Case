@@ -61,7 +61,7 @@ O vírus tem maior incidência **no verão**, principalmente em regiões turíst
 - CORS  
 - dotenv  
 - Git & GitHub  
-- Frontend futuro: React
+- Frontend Vue.js
 
 ---
 
