@@ -4,6 +4,8 @@ API para armazenar e consultar casos de gastroenterite e eventos relacionados ao
 Este projeto é uma aplicação de estudo que combina **Node.js, Express e PostgreSQL** para o backend, e Vue.js para Front-end
 
 ---
+<img width="1252" height="622" alt="image" src="https://github.com/user-attachments/assets/70fd7772-b8dd-4e07-b030-635a72a26964" />
+
 
 ## 🦠 Sobre o Norovírus
 
