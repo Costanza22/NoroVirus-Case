@@ -6,6 +6,14 @@ Este projeto é uma aplicação de estudo que combina **Node.js, Express e Postg
 ---
 <img width="1252" height="622" alt="image" src="https://github.com/user-attachments/assets/70fd7772-b8dd-4e07-b030-635a72a26964" />
 
+<img width="1247" height="522" alt="image" src="https://github.com/user-attachments/assets/93de1fea-1209-45ba-98f9-a833572ca9ed" />
+
+<img width="1234" height="616" alt="image" src="https://github.com/user-attachments/assets/dd7be6ef-4cfa-4383-b1e1-52e7d4298084" />
+
+<img width="1205" height="505" alt="image" src="https://github.com/user-attachments/assets/c74bc462-f0e8-41d1-b424-43440b19a7f4" />
+
+
+
 
 ## 🦠 Sobre o Norovírus
 
